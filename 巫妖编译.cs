@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //Andriew凝聚态和Andriew方程的时变演算
-            //《几何学的故事》
+            //几何学的故事
         }
     }
 }
